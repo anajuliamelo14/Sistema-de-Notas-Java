@@ -1,23 +1,23 @@
-# Calculadora Java
+# Sistema de Notas Java
 
 Projeto desenvolvido para praticar lógica de programação em Java.
 
 ## Funcionalidades
 
-- Soma
-- Subtração
-- Multiplicação
-- Divisão
-- Tratamento de divisão por zero
+- Cadastro do nome do aluno
+- Entrada de duas notas
+- Cálculo da média
+- Verificação de aprovação
+- Aprovação com excelência para médias acima de 9
 
 ## Conceitos praticados
 
 - Scanner
 - Variáveis
-- Condicionais (if/else)
 - Operadores matemáticos
-- Entrada e saída de dados
+- Estruturas condicionais (if/else)
+- Condicionais aninhadas
 
-## Observação
+## Autor
 
-Projeto desenvolvido durante meu retorno aos estudos de Java e lógica de programação.
+Ana Júlia Melo
